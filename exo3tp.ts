@@ -18,3 +18,4 @@ console.log("Groupes d'élèves :");
 groupes.forEach((groupe, index) => {
     console.log(`Groupe ${index + 1}: ${groupe[0].id}, ${groupe[1].id}`);
 });
+
