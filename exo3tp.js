@@ -15,3 +15,4 @@ console.log("Groupes d'élèves :");
 groupes.forEach(function (groupe, index) {
     console.log("Groupe ".concat(index + 1, ": ").concat(groupe[0].id, ", ").concat(groupe[1].id));
 });
+
